@@ -10,6 +10,7 @@ AI와 함께 개발하며 주도적으로 판단하는 엔지니어로 성장하
 .
 ├── README.md
 ├── AGENTS.md
+├── .agents/skills/socratic-tutor/ # Codex 프로젝트 튜터 스킬과 라이선스
 ├── inbox/       # 아직 정리하지 않은 생각과 메모
 ├── references/  # 외부 글·영상·발표를 읽은 기록
 ├── notes/       # 내 생각, 학습, 실험과 판단
@@ -81,6 +82,8 @@ status: draft
 
 ## 다음으로 읽을 문서
 
+- [Codex에 Jane Street 튜터 설치하고 사용하기](notes/codex-socratic-tutor-setup.md)
+- [설계 이해와 스킬 검증 핵심 문제집](notes/open-source-learning-skills-workbook.md)
 - [개발자의 판단력을 지키는 오픈소스 스킬 비교](references/open-source-skills-for-independent-engineering.md)
 - [학습 대화 운영 원칙](notes/learning-dialogue-protocol.md)
 - [아키텍처 리뷰를 연습하는 방법](notes/architecture-review-practice.md)
