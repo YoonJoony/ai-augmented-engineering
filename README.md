@@ -81,6 +81,7 @@ status: draft
 
 ## 다음으로 읽을 문서
 
+- [개발자의 판단력을 지키는 오픈소스 스킬 비교](references/open-source-skills-for-independent-engineering.md)
 - [학습 대화 운영 원칙](notes/learning-dialogue-protocol.md)
 - [아키텍처 리뷰를 연습하는 방법](notes/architecture-review-practice.md)
 - [AI 에이전트와 코드 정리를 실험하는 계획](notes/agent-code-cleanup-experiment.md)
