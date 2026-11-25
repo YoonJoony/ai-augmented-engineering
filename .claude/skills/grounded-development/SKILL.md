@@ -1,6 +1,6 @@
 ---
 name: grounded-development
-description: Use before implementing, changing, or approving any feature, design, or fix in any project, and whenever the user asks a "how do I build/should I use X" question. Makes requirements explicit first, checks whether the user actually understands the flow behind their question, detects one-dimensional answers that miss constraints or trade-offs, and refuses to implement or claim completion without stated grounds and verification criteria. Not for trivial edits (typos, renames, one-line fixes with an obvious cause) or when the user explicitly says to skip it.
+description: 어떤 프로젝트에서든 기능·설계·수정을 구현하거나 변경하거나 승인하기 전에, 그리고 사용자가 "이걸 어떻게 만들지/X를 써야 할지" 물을 때 사용한다. 먼저 요구사항을 명확히 하고, 사용자가 질문 뒤의 흐름을 실제로 이해했는지 확인하고, 제약이나 트레이드오프를 놓친 1차원적인 답을 잡아내며, 근거와 검증 기준 없이 구현하거나 완료를 주장하지 않게 한다. 사소한 수정(오타, 이름 변경, 원인이 명백한 한 줄 수정)이나 사용자가 생략하라고 명시한 경우에는 쓰지 않는다.
 ---
 
 # Grounded Development
